@@ -13,8 +13,8 @@
 		<jackson.library>2.7.5</jackson.library>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-                <sonar.host.url>http://3.27.198.28:9000/</sonar.host.url>
-                <sonar.login>b52ec8882b5af4c22212b32bbf76f64d56a19219</sonar.login>
+                <sonar.host.url>http://13.239.140.133:9000/</sonar.host.url>
+                <sonar.login>sqa_57bb5c04be3c8080772ff9d182360c2051989022</sonar.login>
 
              
 	</properties>
